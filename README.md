@@ -2,6 +2,10 @@
 
 # Full Stack Developer
  
+[![Build Status](https://img.shields.io/badge/-Full_Stack_Development-brightgreen)](http://quickeffort.com)
+[![Build Status](https://img.shields.io/badge/-Web_Development-lightgray)](http://quickeffort.com)
+[![Build Status](https://img.shields.io/badge/-Web_Designing-9cf)](http://quickeffort.com)
+[![Build Status](https://img.shields.io/badge/-Graphic_Designing-0c3ca7)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-React_Js-brightgreen)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-Node_Js-green)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-Javascript-yellowgreen)](http://quickeffort.com)
