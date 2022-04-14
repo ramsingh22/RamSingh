@@ -4,7 +4,7 @@
  
 [![Build Status](https://img.shields.io/badge/-Full_Stack_Development-brightgreen)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-Web_Development-lightgray)](http://quickeffort.com)
-[![Build Status](https://img.shields.io/badge/-Web_Designing-9cf)](http://quickeffort.com)
+[![Build Status](https://img.shields.io/badge/-Web_Designing-504816)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-Graphic_Designing-0c3ca7)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-React_Js-brightgreen)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-Node_Js-green)](http://quickeffort.com)
@@ -14,9 +14,10 @@
 [![Build Status](https://img.shields.io/badge/-iOS_App-blueviolet)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-Android_App-ff69b4)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-PHP-blue)](http://quickeffort.com)
-[![Build Status](https://img.shields.io/badge/-Wordpress-lightgray)](http://quickeffort.com)
+[![Build Status](https://img.shields.io/badge/-MYSQL-8c2f82)](http://quickeffort.com)
+[![Build Status](https://img.shields.io/badge/-Wordpress-93dd97)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-Redis-red)](http://quickeffort.com)
-[![Build Status](https://img.shields.io/badge/-CakePHP-brightgreen)](http://quickeffort.com)
+[![Build Status](https://img.shields.io/badge/-CakePHP-e70a3c)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-Yii2-blueviolet)](http://quickeffort.com)
 [![Build Status](https://img.shields.io/badge/-jQuery-9cf)](http://quickeffort.com)
 
