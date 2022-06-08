@@ -25,7 +25,7 @@ I am a skilled full stack developer with seven years of experience, focusing on 
 
 I am getting the job done considering the necessary security aspects, as I have always been security-focused with quality analyzing skills.
 
-Please spend a few moments of your precious time reviewing my [portfolio](http://quickeffort.com/portfolio.html).
+Please spend a few moments of your precious time reviewing my [portfolio](http://quickeffort.com/portfolio.php).
 
 Thank you for taking the time to get to know more about me, feel free to reach out if you feel like we could work together.
 
